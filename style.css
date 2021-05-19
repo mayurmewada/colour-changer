@@ -1,0 +1,36 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 400px 300px 300px 300px;
+  background-color: #555;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+.strap {
+  border: 2px solid #000;
+  align-items: center;
+  height: 130px;
+  display: block;
+  background-color: rgb(0, 0, 0);
+  box-shadow: 0px 0px 20px 0px #007bff;
+}
+
+h3 {
+  text-align: center;
+  color: azure;
+  font-size: 35px;
+  font-family: monospace;
+  margin: 5px;
+  background-color: rgb(0, 0, 0);
+}
+
+.btn {
+  padding: 20px 50px;
+  font-size: 20px;
+  margin: 0 auto;
+  display: block;
+  background-color: black;
+  border-color: black;
+}
